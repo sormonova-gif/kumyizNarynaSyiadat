@@ -1,0 +1,6 @@
+{
+  "name": "Кумыс из Нарына",
+  "description": "Прием заказов на натуральный кумыс с джайлоо Сөөк в Нарынской области с доставкой и оформлением через WhatsApp",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
